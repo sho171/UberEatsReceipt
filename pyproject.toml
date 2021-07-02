@@ -2,7 +2,7 @@
 name = "UberEatsReceipt"
 version = "0.1.0"
 description = ""
-authors = ["sho171 <sh.zxcv00@gmail.com>"]
+authors = ["dammy <dammy00@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
